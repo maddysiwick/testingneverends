@@ -1,1 +1,1 @@
-print('yayay i love being busy')
+print('busy busy')
