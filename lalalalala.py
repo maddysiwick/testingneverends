@@ -3,8 +3,8 @@ def myFirstWord():
     word='sky'
     return word
 
-def mySecondWord():
-    word='dirt'
-    return word
+def myFirstColour():
+    colour='blue'
+    return colour
 
-print(myFirstWord(),' ',mySecondWord())
+print(myFirstColour(),' ',myFirstWord())
