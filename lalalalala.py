@@ -1,1 +1,1 @@
-print('yayay i love being busy')
+print('what if i like actually jumped out a window')
