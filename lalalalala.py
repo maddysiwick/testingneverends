@@ -1,12 +1,12 @@
 print('what if i like actually jumped out a window')
 def myFirstWord():
-    word='baby'
+    word='ocean'
     return word
 
 def myFirstColour():
     colour='blue'
     return colour
 
-print(myFirstWord(),' ',myFirstColour())
+print(myFirstColour(),' ',myFirstWord())
 
-print('thats a wrap folks!!')
+print('its christmas lets go home')
